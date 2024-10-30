@@ -1,0 +1,48 @@
+/* Start of LogInOut */
+/* LogInOut button style */
+
+.enter{
+	display:block;
+	padding:10px 10px;
+	background: #fff;
+	margin-top:12px;
+	max-width:178px;
+	color:#333;
+	border:1px solid #ccc;
+	border-radius: 3px;
+	transition: all ease-in-out 0.1s;
+	text-align: center;
+}
+
+.enter:hover{
+	background: #ddd;
+	text-decoration: none;
+}
+
+/* LogInOut Username as link style */
+
+.show-user-name{
+	display: block;
+	position: fixed;
+	top: 5px;
+	right: 58px;
+	width: 205px;
+	z-index: 120;
+	border: 1px solid #73AD21;
+	background: rgba(247, 234, 157, 0.3); / #F7EA9D; */
+	height: 30px;
+	line-height: 30px;
+	padding-top: 0px;
+	text-align: center;
+	font-size: small;
+	color: #000000;
+}
+
+.show-user-name a{
+	color:#000;
+	text-shadow: 1px 1px 3px #bbb;
+}
+
+/* End of LogInOut */
+
+
